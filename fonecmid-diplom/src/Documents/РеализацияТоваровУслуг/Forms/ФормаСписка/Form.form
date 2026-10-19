@@ -667,14 +667,6 @@
         <dataPath>Комментарий</dataPath>
         <field>Комментарий</field>
       </fields>
-      <fields xsi:type="schema:DataCompositionSchemaNestedDataSet">
-        <dataPath>Товары</dataPath>
-        <field>Товары</field>
-      </fields>
-      <fields xsi:type="schema:DataCompositionSchemaNestedDataSet">
-        <dataPath>Услуги</dataPath>
-        <field>Услуги</field>
-      </fields>
       <fields xsi:type="schema:DataCompositionSchemaDataSetField">
         <dataPath>МоментВремени</dataPath>
         <field>МоментВремени</field>
@@ -682,6 +674,14 @@
       <fields xsi:type="schema:DataCompositionSchemaDataSetField">
         <dataPath>ЕстьФайлы</dataPath>
         <field>ЕстьФайлы</field>
+      </fields>
+      <fields xsi:type="schema:DataCompositionSchemaDataSetField">
+        <dataPath>Товары</dataPath>
+        <field>Товары</field>
+      </fields>
+      <fields xsi:type="schema:DataCompositionSchemaDataSetField">
+        <dataPath>Услуги</dataPath>
+        <field>Услуги</field>
       </fields>
     </extInfo>
   </attributes>

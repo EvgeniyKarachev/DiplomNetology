@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Subsystem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="cb772a3b-7512-4d48-b65b-a79a4ea6e3f1">
+  <name>ВКМ_РаботаСЗаявкамиКлиентов</name>
+  <synonym>
+    <key>ru</key>
+    <value>Работа с заявками клиентов</value>
+  </synonym>
+  <includeHelpInContents>true</includeHelpInContents>
+  <includeInCommandInterface>true</includeInCommandInterface>
+  <picture xsi:type="core:PictureRef">
+    <picture>CommonPicture.ИконкаНетология</picture>
+  </picture>
+  <content>Document.ВКМ_ОбслуживаниеКлиентов</content>
+  <content>Role.ВКМ_ОбслуживаниеКлиентов</content>
+  <content>AccumulationRegister.ВКМ_ВыполненныеКлиентуРаботы</content>
+  <content>CommonModule.ВКМ_Телеграм</content>
+  <content>Catalog.ВКМ_УведомленияТелеграмБоту</content>
+  <content>ScheduledJob.ВКМ_ОтправкаСообщений</content>
+  <content>DataProcessor.ВКМ_КалендарьСпециалистов</content>
+  <content>DataProcessor.ВКМ_МассовоеСозданиеАктов</content>
+  <content>Role.ВКМ_МенеджерПоОбслуживаниюКлиентов</content>
+  <content>Role.ВКМ_СпециалистПоОбслуживаниюКлиентов</content>
+  <content>Role.ВКМ_БухгалтерИТФирмы</content>
+  <subsystems>Данные</subsystems>
+</mdclass:Subsystem>
