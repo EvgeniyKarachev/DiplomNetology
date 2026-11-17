@@ -4,6 +4,8 @@
     <subsystems>Subsystem.ПокупкиИПродажи</subsystems>
     <subsystems>Subsystem.Деньги</subsystems>
     <subsystems>Subsystem.ВКМ_РаботаСЗаявкамиКлиентов</subsystems>
+    <subsystems>Subsystem.ВКМ_Отчеты</subsystems>
+    <subsystems>Subsystem.ВКМ_РасчетУправленческойЗарплаты</subsystems>
     <subsystems>Subsystem.Администрирование</subsystems>
   </subsystemsOrder>
 </cmi:CommandInterface>

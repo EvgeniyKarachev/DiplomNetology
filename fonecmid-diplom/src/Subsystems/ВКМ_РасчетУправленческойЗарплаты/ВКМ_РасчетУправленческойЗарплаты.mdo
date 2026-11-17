@@ -10,21 +10,13 @@
   <picture xsi:type="core:PictureRef">
     <picture>CommonPicture.ИконкаНетология</picture>
   </picture>
-  <content>ChartOfCalculationTypes.ВКМ_ОсновныеНачисления</content>
-  <content>ChartOfCalculationTypes.ВКМ_ДополнительныеНачисления</content>
-  <content>ChartOfCalculationTypes.ВКМ_Удержания</content>
   <content>CalculationRegister.ВКМ_ОсновныеНачисления</content>
-  <content>InformationRegister.ВКМ_ГрафикиРабот</content>
   <content>CalculationRegister.ВКМ_ДополнительныеНачисления</content>
   <content>CalculationRegister.ВКМ_Удержания</content>
-  <content>InformationRegister.ВКМ_УсловияОплатыСотрудников</content>
-  <content>Document.ВКМ_НачислениеЗарплаты</content>
-  <content>Document.ВКМ_НачислениеФиксированнойПремии</content>
   <content>AccumulationRegister.ВКМ_ВыполненныеСотрудникомРаботы</content>
-  <content>DataProcessor.ВКМ_ЗаполнениеГрафика</content>
-  <content>Catalog.ВКМ_ГрафикиРаботы</content>
   <content>AccumulationRegister.ВКМ_ВзаиморасчетыССотрудниками</content>
-  <content>Document.ВКМ_ВыплатаЗарплаты</content>
-  <content>Document.ВКМ_ГрафикОтпусков</content>
-  <content>InformationRegister.ВКМ_ГрафикОтпусков</content>
+  <subsystems>Документы</subsystems>
+  <subsystems>Справочники</subsystems>
+  <subsystems>Сервис</subsystems>
+  <subsystems>Данные</subsystems>
 </mdclass:Subsystem>

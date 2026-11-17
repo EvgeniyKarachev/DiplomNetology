@@ -8,10 +8,8 @@
       </visible>
     </visibilityFragments>
     <visibilityFragments>
-      <command>Catalog.ВКМ_УведомленияТелеграмБоту.StandardCommand.Create</command>
-      <visible>
-        <common>true</common>
-      </visible>
+      <command>Document.ВКМ_ОбслуживаниеКлиентов.StandardCommand.OpenList</command>
+      <visible/>
     </visibilityFragments>
   </commandsVisibility>
   <commandsOrder>
@@ -22,8 +20,6 @@
     <orderFragments>
       <group>NavigationPanelOrdinary</group>
       <commands>AccumulationRegister.ВКМ_ВыполненныеКлиентуРаботы.StandardCommand.OpenList</commands>
-      <commands>Document.ВКМ_ОбслуживаниеКлиентов.StandardCommand.OpenList</commands>
-      <commands>Catalog.ВКМ_УведомленияТелеграмБоту.StandardCommand.OpenList</commands>
     </orderFragments>
   </commandsOrder>
 </cmi:CommandInterface>

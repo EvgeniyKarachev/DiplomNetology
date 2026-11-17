@@ -11,5 +11,6 @@
   <content>Constant.ВКМ_ИдентификаторГруппыДляОповещения</content>
   <content>Constant.ВКМ_НоменклатураАбоненсткаяПлата</content>
   <content>Constant.ВКМ_НоменклатураРаботыСпециалиста</content>
+  <content>Catalog.ВКМ_УведомленияТелеграмБоту</content>
   <parentSubsystem>Subsystem.ВКМ_РаботаСЗаявкамиКлиентов</parentSubsystem>
 </mdclass:Subsystem>
